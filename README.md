@@ -1,2 +1,7 @@
-# my-second-brain
-My second brain with Obsidian
+# My Second Brain 
+
+> My second brain with Obsidian
+
+## Tools
+
+- [Obsidian](https://obsidian.md/)

@@ -1,0 +1,109 @@
+{
+  "main": {
+    "id": "f16cb8c62a442aa8",
+    "type": "split",
+    "children": [
+      {
+        "id": "44ed268f8ffc59b1",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Projects/HugoBudget.md",
+            "mode": "source"
+          }
+        },
+        "group": "222173eb2f3c1b5f"
+      },
+      {
+        "id": "8b6e5f33107f8bb1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Projects/HugoBudget.md",
+            "mode": "preview"
+          }
+        },
+        "group": "222173eb2f3c1b5f"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "512d8028f1916763",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0d17ae8224a73b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa5ec31670fa3ec5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "902e876f5c430e56",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "afbcaadc7b647075",
+    "type": "split",
+    "children": [
+      {
+        "id": "e556464f942dec69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a717f1df226e1d3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Projects/HugoBudget.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Projects/HugoBudget.md",
+    "English/Monoligual Dictionaries.md",
+    "Programming/SVG Path Visualizer.md",
+    "Programming/TypeScript.md",
+    "Programming/Web Storage API.md",
+    "Programming/Untitled.md"
+  ]
+}
