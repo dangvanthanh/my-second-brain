@@ -1,4 +1,6 @@
-#javascript
+Tags: #javascript
+
+---
 
 # Web Storage API
 

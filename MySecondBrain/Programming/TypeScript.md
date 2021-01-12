@@ -1,1 +1,5 @@
-#typescript
+Tags: #typescript
+
+---
+
+# TypeScript

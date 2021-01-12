@@ -10,23 +10,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Projects/HugoBudget.md",
+            "file": "Programming/Illustration.md",
             "mode": "source"
           }
         },
-        "group": "222173eb2f3c1b5f"
+        "group": "00e6c52885a2e43e"
       },
       {
-        "id": "8b6e5f33107f8bb1",
+        "id": "550d32b03821563c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Projects/HugoBudget.md",
+            "file": "Programming/Illustration.md",
             "mode": "preview"
           }
         },
-        "group": "222173eb2f3c1b5f"
+        "group": "00e6c52885a2e43e"
       }
     ],
     "direction": "vertical"
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#typescript",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,12 +82,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/HugoBudget.md",
+                "file": "Programming/Illustration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -99,11 +99,12 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Projects/HugoBudget.md",
+    "Programming/Illustration.md",
     "English/Monoligual Dictionaries.md",
-    "Programming/SVG Path Visualizer.md",
-    "Programming/TypeScript.md",
+    "Programming/Untitled.md",
     "Programming/Web Storage API.md",
-    "Programming/Untitled.md"
+    "Programming/TypeScript.md",
+    "Programming/SVG Path Visualizer.md",
+    "Projects/HugoBudget.md"
   ]
 }

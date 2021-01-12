@@ -1,3 +1,7 @@
+Tags: #vue, #javascript, #typescript 
+
+---
+
 # Hugo Budget
 
 Simple personal budget
