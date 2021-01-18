@@ -10,23 +10,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/Illustration.md",
+            "file": "English/Vowel Sounds.md",
             "mode": "source"
           }
-        },
-        "group": "00e6c52885a2e43e"
-      },
-      {
-        "id": "550d32b03821563c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Programming/Illustration.md",
-            "mode": "preview"
-          }
-        },
-        "group": "00e6c52885a2e43e"
+        }
       }
     ],
     "direction": "vertical"
@@ -53,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#typescript",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Illustration.md",
+                "file": "English/Vowel Sounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,12 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Programming/Illustration.md",
+    "English/Vowel Sounds.md",
+    "English/Pronounce Sounds.md",
     "English/Monoligual Dictionaries.md",
-    "Programming/Untitled.md",
-    "Programming/Web Storage API.md",
+    "Programming/Navigator Clipboard API.md",
+    "English/Untitled.md",
+    "English/Prounce.md",
+    "Programming/Navigation Clipboard API.md",
+    "Programming/Illustration.md",
     "Programming/TypeScript.md",
-    "Programming/SVG Path Visualizer.md",
-    "Projects/HugoBudget.md"
+    "Programming/SVG Path Visualizer.md"
   ]
 }
