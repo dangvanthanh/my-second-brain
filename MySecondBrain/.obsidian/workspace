@@ -10,10 +10,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "English/Vowel Sounds.md",
+            "file": "Car/Chạy Xa Hình.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "75ead80a02bd71ea"
+      },
+      {
+        "id": "a23ede4f31b91dff",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Car/Chạy Xa Hình.md",
+            "mode": "preview"
+          }
+        },
+        "group": "75ead80a02bd71ea"
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Vowel Sounds.md",
+                "file": "Car/Chạy Xa Hình.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,6 +99,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Car/Chạy Xa Hình.md",
+    "Car/Untitled.md",
     "English/Vowel Sounds.md",
     "English/Pronounce Sounds.md",
     "English/Monoligual Dictionaries.md",
@@ -93,8 +108,6 @@
     "English/Untitled.md",
     "English/Prounce.md",
     "Programming/Navigation Clipboard API.md",
-    "Programming/Illustration.md",
-    "Programming/TypeScript.md",
-    "Programming/SVG Path Visualizer.md"
+    "Programming/Illustration.md"
   ]
 }
