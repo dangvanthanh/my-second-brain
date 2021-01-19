@@ -12,13 +12,13 @@ Tags: #car
 1. Lên cầu dừng ngay chốt cửa.
 
 ## Bài 3
-1. Chạy qua bàn đinh:
-2. Tới móc ngan vai, quẹt hết bên trái.
-3. Nhìn thẳng móc ngay chính giửa mình.
+1. Chạy qua bàn đinh.
+2. Tới mốc ngang vai, quẹt hết bên trái.
+3. Nhìn thẳng mốc ngay chính giửa mình.
 4. Lề trái qua kính là quẹo.
 
 ## Bài 4
-1. Cảnh báo nguy hiểm
+1. Cảnh báo nguy hiểm.
 2. Chỉ có 3 nơi báo cảnh báo nguy hiểm.
 3. Sau bàn đinh, gần tới đường rây xe lửa.
 4. Sau khi tăng tốc.
