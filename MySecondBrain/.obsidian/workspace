@@ -6,7 +6,6 @@
       {
         "id": "44ed268f8ffc59b1",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -14,11 +13,12 @@
             "mode": "source"
           }
         },
-        "group": "75ead80a02bd71ea"
+        "group": "43866213e77d0cdf"
       },
       {
-        "id": "a23ede4f31b91dff",
+        "id": "29c390fc9d11d8cb",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -26,7 +26,7 @@
             "mode": "preview"
           }
         },
-        "group": "75ead80a02bd71ea"
+        "group": "43866213e77d0cdf"
       }
     ],
     "direction": "vertical"
@@ -100,14 +100,14 @@
   },
   "lastOpenFiles": [
     "Car/Chạy Xa Hình.md",
-    "Car/Untitled.md",
     "English/Vowel Sounds.md",
     "English/Pronounce Sounds.md",
-    "English/Monoligual Dictionaries.md",
-    "Programming/Navigator Clipboard API.md",
-    "English/Untitled.md",
-    "English/Prounce.md",
-    "Programming/Navigation Clipboard API.md",
-    "Programming/Illustration.md"
+    "Front End/Package Managers and Web Bundlers.md",
+    "Front End/Server Side Rendering.md",
+    "Front End/CSS Preprocessor.md",
+    "Front End/Testing.md",
+    "Front End/HTML and CSS.md",
+    "Front End/JavaScript.md",
+    "Front End/What Does The Web Work.md"
   ]
 }
