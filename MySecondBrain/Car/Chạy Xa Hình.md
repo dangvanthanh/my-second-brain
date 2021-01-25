@@ -39,7 +39,7 @@ Tags: #car
 
 ## Bài 10: Ghép ngang nhà xe. 
 
-## Bài 11: Vẹo phải & xi nhan.
+## Bài 11: Vẹo phải, xi nhan phải
 
 ## Bài 12: Về đích, xi nhan phải.
  
@@ -58,11 +58,12 @@ Tags: #car
 1. Đến cột, thắng, chuyển số 2, rồi về lại số 1.
 2. Buôn thắng, buôn kon, nhấn ga đến khi kim trái >3 & <4. Rồi thắng lại.
 
-### Bài Canh báo nguy hiểm: chỉ xuất hiện 3 nơi
+### Bài Cảnh báo nguy hiểm: chỉ xuất hiện 3 nơi
 1. Ra bàn đinh.
 2. Gần xe lửa.
 3. Gần ghép ngang. 
 4. Dấu hiệu là đen số 4 nháy.
 5. Khi có cảnh báo thì thắng đứng, bật cảnh báo đến hết cảnh báo, đếm ngược 5 số tắc cảnh báo chạy tiếp.
+6. Ngoài ra cảnh báo nguy hiểm tuỳ thuộc vào sân thi
 
 * Note: tất cả điểm thi nên chạy chậm để xử lý. Chỗ nào trống thì nhấn ga.
