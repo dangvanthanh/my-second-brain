@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Front End/CSS Preprocessor.md",
+            "file": "English/Vowel Sounds.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Front End/CSS Preprocessor.md",
+            "file": "English/Vowel Sounds.md",
             "mode": "preview"
           }
         },
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front End/CSS Preprocessor.md",
+                "file": "English/Vowel Sounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Front End/CSS Preprocessor.md",
-    "Car/Chạy Xa Hình.md",
     "English/Vowel Sounds.md",
     "English/Pronounce Sounds.md",
+    "English/Monoligual Dictionaries.md",
+    "Projects/Hugo Budget.md",
     "Front End/Package Managers and Web Bundlers.md",
-    "Front End/Server Side Rendering.md",
-    "Front End/Testing.md",
-    "Front End/HTML and CSS.md",
     "Front End/JavaScript.md",
-    "Front End/What Does The Web Work.md"
+    "Front End/HTML and CSS.md",
+    "Front End/CSS Preprocessor.md",
+    "Front End/Web APIS.md",
+    "Front End/Testing.md"
   ]
 }
