@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "English/Vowel Sounds.md",
+            "file": "Programming/SVG/Illustration.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "English/Vowel Sounds.md",
+            "file": "Programming/SVG/Illustration.md",
             "mode": "preview"
           }
         },
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Vowel Sounds.md",
+                "file": "Programming/SVG/Illustration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "English/Vowel Sounds.md",
-    "English/Pronounce Sounds.md",
-    "English/Monoligual Dictionaries.md",
-    "Projects/Hugo Budget.md",
-    "Front End/Package Managers and Web Bundlers.md",
-    "Front End/JavaScript.md",
-    "Front End/HTML and CSS.md",
-    "Front End/CSS Preprocessor.md",
-    "Front End/Web APIS.md",
-    "Front End/Testing.md"
+    "Programming/Illustration.md",
+    "Programming/SVG Path Visualizer.md",
+    "Programming/Navigator Clipboard API.md",
+    "Programming/Web/What Does The Web Work.md",
+    "Programming/Web/Web APIS.md",
+    "Programming/Web/Server Side Rendering.md",
+    "Programming/Web/JavaScript.md",
+    "Programming/Web/HTML and CSS.md",
+    "Programming/Web/CSS Preprocessor.md",
+    "Programming/Front End/HTML and CSS.md"
   ]
 }
