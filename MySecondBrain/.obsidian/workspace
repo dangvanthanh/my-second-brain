@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/Vue/Roadmap for Vue.js.md",
+            "file": "Programming/Mac OS/Add Space More Mac Dock.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/Vue/Roadmap for Vue.js.md",
+            "file": "Programming/Mac OS/Add Space More Mac Dock.md",
             "mode": "preview"
           }
         },
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Vue/Roadmap for Vue.js.md",
+                "file": "Programming/Mac OS/Add Space More Mac Dock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Programming/Mac OS/Untitled.md",
+    "Programming/Node.js/Untitled.md",
+    "Programming/Node.js/HTTPs All The Things.md",
+    "Programming/JavaScript/Navigator Clipboard API.md",
     "Programming/Vue/Roadmap for Vue.js.md",
     "Programming/TypeScript/TypeScript.md",
     "Programming/Vue/Untitled.md",
     "Programming/CSS/Breakpoints.md",
-    "Programming/JavaScript/Navigator Clipboard API.md",
     "Programming/CSS/Untitled.md",
-    "Programming/SVG/Illustration.md",
-    "Programming/Illustration.md",
-    "Programming/SVG Path Visualizer.md",
-    "Programming/Navigator Clipboard API.md"
+    "Programming/SVG/Illustration.md"
   ]
 }
