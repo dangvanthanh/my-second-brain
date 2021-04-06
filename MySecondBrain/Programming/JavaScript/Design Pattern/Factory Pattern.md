@@ -1,0 +1,5 @@
+Tags: #javascript 
+
+---
+
+# Factory Pattern

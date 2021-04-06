@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/Mac OS/Add Space More Mac Dock.md",
+            "file": "Programming/JavaScript/Design Pattern/Prototype Pattern.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/Mac OS/Add Space More Mac Dock.md",
+            "file": "Programming/JavaScript/Design Pattern/Prototype Pattern.md",
             "mode": "preview"
           }
         },
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Mac OS/Add Space More Mac Dock.md",
+                "file": "Programming/JavaScript/Design Pattern/Prototype Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Programming/Mac OS/Untitled.md",
-    "Programming/Node.js/Untitled.md",
-    "Programming/Node.js/HTTPs All The Things.md",
+    "Programming/JavaScript/Design Pattern/Prototype Pattern.md",
+    "Programming/JavaScript/Design Pattern/Factory Pattern.md",
+    "Programming/JavaScript/Design Pattern/Constructor Pattern.md",
+    "Programming/JavaScript/Design Pattern/Untitled.md",
     "Programming/JavaScript/Navigator Clipboard API.md",
-    "Programming/Vue/Roadmap for Vue.js.md",
-    "Programming/TypeScript/TypeScript.md",
-    "Programming/Vue/Untitled.md",
-    "Programming/CSS/Breakpoints.md",
-    "Programming/CSS/Untitled.md",
-    "Programming/SVG/Illustration.md"
+    "Programming/JavaScript/Data Structure/Stack.md",
+    "Programming/JavaScript/Data Structure/Queue.md",
+    "Programming/JavaScript/Data Structure/Data Structure With Stack.md",
+    "Programming/JavaScript/Data Structure/Data Structure With Queue.md",
+    "Programming/JavaScript/Untitled.md"
   ]
 }
