@@ -10,23 +10,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/JavaScript/Design Pattern/Prototype Pattern.md",
+            "file": "Programming/JavaScript/Design Pattern/Object Creation Patterns.md",
             "mode": "source"
           }
         },
-        "group": "43866213e77d0cdf"
+        "group": "2bda7357d8556b34"
       },
       {
-        "id": "29c390fc9d11d8cb",
+        "id": "a1bd0b4aaff93be7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/JavaScript/Design Pattern/Prototype Pattern.md",
+            "file": "Programming/JavaScript/Design Pattern/Object Creation Patterns.md",
             "mode": "preview"
           }
         },
-        "group": "43866213e77d0cdf"
+        "group": "2bda7357d8556b34"
       }
     ],
     "direction": "vertical"
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/JavaScript/Design Pattern/Prototype Pattern.md",
+                "file": "Programming/JavaScript/Design Pattern/Object Creation Patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Programming/JavaScript/Design Pattern/Object Creation Patterns.md",
+    "Programming/JavaScript/Design Pattern/Constructor Pattern.md",
+    "Programming/JavaScript/Design Pattern/Constructor or Prototype Pattern.md",
     "Programming/JavaScript/Design Pattern/Prototype Pattern.md",
     "Programming/JavaScript/Design Pattern/Factory Pattern.md",
-    "Programming/JavaScript/Design Pattern/Constructor Pattern.md",
     "Programming/JavaScript/Design Pattern/Untitled.md",
     "Programming/JavaScript/Navigator Clipboard API.md",
     "Programming/JavaScript/Data Structure/Stack.md",
     "Programming/JavaScript/Data Structure/Queue.md",
-    "Programming/JavaScript/Data Structure/Data Structure With Stack.md",
-    "Programming/JavaScript/Data Structure/Data Structure With Queue.md",
-    "Programming/JavaScript/Untitled.md"
+    "Programming/JavaScript/Data Structure/Data Structure With Stack.md"
   ]
 }

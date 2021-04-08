@@ -1,5 +1,0 @@
-Tags: #javascript 
-
----
-
-# Prototype Pattern
