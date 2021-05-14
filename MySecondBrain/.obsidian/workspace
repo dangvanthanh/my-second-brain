@@ -9,23 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/Web/01 - CSS and CSS Preprocessor.md",
+            "file": "Journal/Keyboard.md",
             "mode": "source"
           }
-        },
-        "group": "2bda7357d8556b34"
-      },
-      {
-        "id": "a1bd0b4aaff93be7",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Programming/Web/01 - CSS and CSS Preprocessor.md",
-            "mode": "preview"
-          }
-        },
-        "group": "2bda7357d8556b34"
+        }
       }
     ],
     "direction": "vertical"
@@ -81,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Web/01 - CSS and CSS Preprocessor.md",
+                "file": "Journal/Keyboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +88,8 @@
   },
   "active": "44ed268f8ffc59b1",
   "lastOpenFiles": [
+    "Journal/Keyboard.md",
+    "Journal/Untitled.md",
     "Programming/Web/01 - CSS and CSS Preprocessor.md",
     "Programming/Web/01 - CSS3 and CSS Preprocessor.md",
     "Programming/Web/JavaScript.md",
@@ -108,8 +97,6 @@
     "Programming/Web/HTML and CSS.md",
     "Programming/Web/Web APIS.md",
     "Programming/Web/Testing.md",
-    "Programming/Web/Server Side Rendering.md",
-    "Programming/Web/Package Managers and Web Bundlers.md",
-    "Programming/Web/CSS Preprocessor.md"
+    "Programming/Web/Server Side Rendering.md"
   ]
 }
