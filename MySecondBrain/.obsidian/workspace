@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "English/Vowel Sounds.md",
+            "file": "Journal/Rust.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Vowel Sounds.md",
+                "file": "Journal/Rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "44ed268f8ffc59b1",
   "lastOpenFiles": [
+    "Journal/Untitled.md",
+    "Journal/Wifi Repeater.md",
+    "Journal/Keyboard.md",
     "English/Vowel Sounds.md",
     "English/Pronounce Sounds.md",
     "English/Monoligual Dictionaries.md",
     "Projects/Hugo Budget.md",
     "Programming/Web/00 - HTML and CSS.md",
     "Programming/Web/01 - CSS and CSS Preprocessor.md",
-    "Journal/Untitled.md",
-    "Journal/Keyboard.md",
-    "Programming/Web/01 - CSS3 and CSS Preprocessor.md",
-    "Programming/Web/JavaScript.md"
+    "Programming/Web/01 - CSS3 and CSS Preprocessor.md"
   ]
 }
