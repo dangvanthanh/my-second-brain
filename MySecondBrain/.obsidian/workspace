@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal/Rust.md",
+            "file": "Programming/Git/Convert Branch Master To Main on Github.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Rust.md",
+                "file": "Programming/Git/Convert Branch Master To Main on Github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "44ed268f8ffc59b1",
   "lastOpenFiles": [
+    "Programming/Git/Untitled.md",
+    "Journal/Rust.md",
     "Journal/Untitled.md",
     "Journal/Wifi Repeater.md",
     "Journal/Keyboard.md",
@@ -95,8 +97,6 @@
     "English/Pronounce Sounds.md",
     "English/Monoligual Dictionaries.md",
     "Projects/Hugo Budget.md",
-    "Programming/Web/00 - HTML and CSS.md",
-    "Programming/Web/01 - CSS and CSS Preprocessor.md",
-    "Programming/Web/01 - CSS3 and CSS Preprocessor.md"
+    "Programming/Web/00 - HTML and CSS.md"
   ]
 }
