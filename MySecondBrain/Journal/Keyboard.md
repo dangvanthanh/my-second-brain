@@ -7,3 +7,8 @@
 ## Keycap
 
 - [Keycap](https://www.keycaps.info/)
+
+
+## Resources
+
+- [Keyboard University](https://keyboard.university/)
