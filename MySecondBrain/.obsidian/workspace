@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal/Keyboard.md",
+            "file": "Journal/Rust.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Keyboard.md",
+                "file": "Journal/Rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,12 +88,12 @@
   },
   "active": "44ed268f8ffc59b1",
   "lastOpenFiles": [
+    "Journal/Rust.md",
+    "Journal/Wifi Repeater.md",
     "Journal/Keyboard.md",
     "Programming/Git/Convert Branch Master To Main on Github.md",
     "Programming/Git/Untitled.md",
-    "Journal/Rust.md",
     "Journal/Untitled.md",
-    "Journal/Wifi Repeater.md",
     "English/Vowel Sounds.md",
     "English/Pronounce Sounds.md",
     "English/Monoligual Dictionaries.md",
