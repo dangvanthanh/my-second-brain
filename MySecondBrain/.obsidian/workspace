@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal/PS5 Game.md",
+            "file": "Journal/Dich Vu Cong.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/PS5 Game.md",
+                "file": "Journal/Dich Vu Cong.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   "active": "44ed268f8ffc59b1",
   "lastOpenFiles": [
     "Journal/Untitled.md",
+    "Journal/PS5 Game.md",
     "Journal/Keyboard.md",
     "Journal/Rust.md",
     "Journal/Wifi Repeater.md",
@@ -96,7 +97,6 @@
     "Programming/Git/Untitled.md",
     "English/Vowel Sounds.md",
     "English/Pronounce Sounds.md",
-    "English/Monoligual Dictionaries.md",
-    "Projects/Hugo Budget.md"
+    "English/Monoligual Dictionaries.md"
   ]
 }
