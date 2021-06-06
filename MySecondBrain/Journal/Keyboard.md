@@ -3,6 +3,8 @@
 ## Typing
 - [Typing Works](https://typing.works)
 - [Monkey Type](https://monkeytype.com)
+- [Nitro Type](https://www.nitrotype.com)
+- [Typing Racer](https://play.typeracer.com)
 
 ## Resources
 
