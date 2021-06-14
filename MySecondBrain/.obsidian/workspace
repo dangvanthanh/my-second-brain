@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal/Keyboard.md",
+            "file": "Personal/Family.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal/Keyboard.md",
+            "file": "Personal/Family.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Keyboard.md",
+                "file": "Personal/Family.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +101,8 @@
   },
   "active": "753e58167b3169b2",
   "lastOpenFiles": [
+    "Personal/Untitled.md",
+    "Journal/Dich Vu Cong.md",
     "Journal/Keyboard.md",
     "Journal/PS5 Game.md",
     "Journal/Wifi Repeater.md",
@@ -108,8 +110,6 @@
     "Programming/Linux/Untitled.md",
     "Programming/CSS/Breakpoints.md",
     "Journal/Rust.md",
-    "Journal/Dich Vu Cong.md",
-    "Journal/Untitled.md",
-    "Programming/Git/Convert Branch Master To Main on Github.md"
+    "Journal/Untitled.md"
   ]
 }
