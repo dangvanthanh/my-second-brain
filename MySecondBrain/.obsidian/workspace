@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/Family.md",
+            "file": "Personal/Dich Vu Cong.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/Family.md",
+            "file": "Personal/Dich Vu Cong.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Family.md",
+                "file": "Personal/Dich Vu Cong.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +101,8 @@
   },
   "active": "753e58167b3169b2",
   "lastOpenFiles": [
+    "Personal/Dich Vu Cong.md",
+    "Personal/Family.md",
     "Personal/Untitled.md",
     "Journal/Dich Vu Cong.md",
     "Journal/Keyboard.md",
@@ -108,8 +110,6 @@
     "Journal/Wifi Repeater.md",
     "Programming/Linux/001.md",
     "Programming/Linux/Untitled.md",
-    "Programming/CSS/Breakpoints.md",
-    "Journal/Rust.md",
-    "Journal/Untitled.md"
+    "Programming/CSS/Breakpoints.md"
   ]
 }
