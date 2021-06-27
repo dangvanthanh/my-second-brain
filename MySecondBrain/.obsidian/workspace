@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/Dich Vu Cong.md",
+            "file": "Journal/Keyboard.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/Dich Vu Cong.md",
+            "file": "Journal/Keyboard.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Dich Vu Cong.md",
+                "file": "Journal/Keyboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,13 +101,13 @@
   },
   "active": "753e58167b3169b2",
   "lastOpenFiles": [
+    "Journal/Keyboard.md",
+    "Journal/PS5 Game.md",
+    "Journal/Wifi Repeater.md",
     "Personal/Dich Vu Cong.md",
     "Personal/Family.md",
     "Personal/Untitled.md",
     "Journal/Dich Vu Cong.md",
-    "Journal/Keyboard.md",
-    "Journal/PS5 Game.md",
-    "Journal/Wifi Repeater.md",
     "Programming/Linux/001.md",
     "Programming/Linux/Untitled.md",
     "Programming/CSS/Breakpoints.md"
