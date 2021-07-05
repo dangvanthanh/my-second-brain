@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal/Keyboard.md",
+            "file": "Programming/Public API.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal/Keyboard.md",
+            "file": "Programming/Public API.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Keyboard.md",
+                "file": "Programming/Public API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "753e58167b3169b2",
   "lastOpenFiles": [
+    "Programming/Untitled.md",
     "Journal/Keyboard.md",
-    "Journal/PS5 Game.md",
     "Journal/Wifi Repeater.md",
+    "Journal/PS5 Game.md",
     "Personal/Dich Vu Cong.md",
     "Personal/Family.md",
     "Personal/Untitled.md",
     "Journal/Dich Vu Cong.md",
     "Programming/Linux/001.md",
-    "Programming/Linux/Untitled.md",
-    "Programming/CSS/Breakpoints.md"
+    "Programming/Linux/Untitled.md"
   ]
 }
