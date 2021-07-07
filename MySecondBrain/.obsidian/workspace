@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/Public API.md",
+            "file": "Programming/CSS/Reset CSS.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/Public API.md",
+            "file": "Programming/CSS/Reset CSS.md",
             "mode": "preview"
           }
         },
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "icon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Public API.md",
+                "file": "Programming/CSS/Reset CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "753e58167b3169b2",
   "lastOpenFiles": [
+    "Programming/CSS/Untitled.md",
+    "Programming/CSS/Breakpoints.md",
+    "Programming/Icons/Icons.md",
+    "Programming/JavaScript/Data Structure/Queue.md",
+    "Programming/Icons/Untitled.md",
+    "Programming/Public API.md",
     "Programming/Untitled.md",
     "Journal/Keyboard.md",
     "Journal/Wifi Repeater.md",
-    "Journal/PS5 Game.md",
-    "Personal/Dich Vu Cong.md",
-    "Personal/Family.md",
-    "Personal/Untitled.md",
-    "Journal/Dich Vu Cong.md",
-    "Programming/Linux/001.md",
-    "Programming/Linux/Untitled.md"
+    "Journal/PS5 Game.md"
   ]
 }
