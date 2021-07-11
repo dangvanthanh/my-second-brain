@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/CSS/Reset CSS.md",
+            "file": "Programming/Database/Database.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/CSS/Reset CSS.md",
+            "file": "Programming/Database/Database.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/CSS/Reset CSS.md",
+                "file": "Programming/Database/Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "753e58167b3169b2",
   "lastOpenFiles": [
-    "Programming/CSS/Untitled.md",
-    "Programming/CSS/Breakpoints.md",
-    "Programming/Icons/Icons.md",
-    "Programming/JavaScript/Data Structure/Queue.md",
-    "Programming/Icons/Untitled.md",
-    "Programming/Public API.md",
     "Programming/Untitled.md",
-    "Journal/Keyboard.md",
-    "Journal/Wifi Repeater.md",
-    "Journal/PS5 Game.md"
+    "Programming/MongoDB/MongoDB.md",
+    "Programming/MongoDB/Untitled.md",
+    "Programming/Linux/001.md",
+    "Personal/Family.md",
+    "Programming/Public API.md",
+    "Programming/SVG/Illustration.md",
+    "Programming/CSS/Reset CSS.md",
+    "Programming/CSS/Untitled.md",
+    "Programming/CSS/Breakpoints.md"
   ]
 }
