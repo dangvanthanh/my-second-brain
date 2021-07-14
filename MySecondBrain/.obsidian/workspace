@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/Database/Database.md",
+            "file": "Programming/Fonts/Fonts.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/Database/Database.md",
+            "file": "Programming/Fonts/Fonts.md",
             "mode": "preview"
           }
         },
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "icon",
+                "query": "Font",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Database/Database.md",
+                "file": "Programming/Fonts/Fonts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "753e58167b3169b2",
   "lastOpenFiles": [
+    "Programming/Fonts/Untitled.md",
+    "Programming/TypeScript/TypeScript.md",
+    "Programming/Vue/Roadmap for Vue.js.md",
+    "Programming/Database/Database.md",
     "Programming/Untitled.md",
     "Programming/MongoDB/MongoDB.md",
     "Programming/MongoDB/Untitled.md",
     "Programming/Linux/001.md",
     "Personal/Family.md",
-    "Programming/Public API.md",
-    "Programming/SVG/Illustration.md",
-    "Programming/CSS/Reset CSS.md",
-    "Programming/CSS/Untitled.md",
-    "Programming/CSS/Breakpoints.md"
+    "Programming/Public API.md"
   ]
 }
