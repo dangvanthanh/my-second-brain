@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/Fonts/Fonts.md",
+            "file": "Programming/Public API.md",
             "mode": "source"
           }
         },
@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/Fonts/Fonts.md",
-            "mode": "preview"
+            "file": "Programming/Public API.md",
+            "mode": "source"
           }
         },
         "group": "981cb4a91be4d537"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Fonts/Fonts.md",
+                "file": "Programming/Public API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "753e58167b3169b2",
   "lastOpenFiles": [
-    "Programming/Fonts/Untitled.md",
-    "Programming/TypeScript/TypeScript.md",
-    "Programming/Vue/Roadmap for Vue.js.md",
-    "Programming/Database/Database.md",
-    "Programming/Untitled.md",
-    "Programming/MongoDB/MongoDB.md",
-    "Programming/MongoDB/Untitled.md",
-    "Programming/Linux/001.md",
+    "Programming/Public API.md",
     "Personal/Family.md",
-    "Programming/Public API.md"
+    "Personal/Dich Vu Cong.md",
+    "Journal/Wifi Repeater.md",
+    "Journal/PS5 Game.md",
+    "Journal/Keyboard.md",
+    "English/Vowel Sounds.md",
+    "English/Pronounce Sounds.md",
+    "English/Monoligual Dictionaries.md",
+    "Car/Chạy Xa Hình.md"
   ]
 }

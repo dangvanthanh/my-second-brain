@@ -1,3 +1,7 @@
+Tags: #keyboard 
+
+---
+
 # Keyboard
 
 ## Typing

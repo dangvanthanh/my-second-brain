@@ -1,3 +1,7 @@
+Tags: #ps5 
+
+---
+
 # PS5 Game
 
 - [It Take Two](https://store.playstation.com/en-us/concept/234689)

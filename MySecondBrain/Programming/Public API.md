@@ -1,3 +1,7 @@
+Tags: #api
+
+---
+
 # Public API
 
 - [The MovieDB API](https://www.themoviedb.org/documentation/api)

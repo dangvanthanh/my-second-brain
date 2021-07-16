@@ -1,3 +1,7 @@
+Tags: #wifi 
+
+---
+
 # Wifi Repeater TP-Link TL-WA850RE
 
 Access the route

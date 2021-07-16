@@ -1,3 +1,7 @@
+Tags: #database, #mongodb
+
+---
+
 # MongoDB
 
 Restore MongoDB from `dump` forder

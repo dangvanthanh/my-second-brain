@@ -1,3 +1,7 @@
+Tags: #icons
+
+---
+
 # Icons
 
 - [Remixicon](https://remixicon.com/)

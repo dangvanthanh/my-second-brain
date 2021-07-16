@@ -1,3 +1,7 @@
+Tags: #git
+
+---
+
 # Convert Branch Master To Main on Github
 
 ## Move the `Master` branch to `main`
