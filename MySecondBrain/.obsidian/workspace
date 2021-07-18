@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/CLI/CURL.md",
+            "file": "Programming/Books.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/CLI/CURL.md",
+            "file": "Programming/Books.md",
             "mode": "source"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/CLI/CURL.md",
+                "file": "Programming/Books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "753e58167b3169b2",
   "lastOpenFiles": [
+    "Programming/Books.md",
+    "Programming/Untitled.md",
+    "Programming/CLI/CURL.md",
     "Programming/CLI/Untitled.md",
     "Programming/CLI/Untitled 1.md",
     "Programming/CSS/Reset CSS.md",
     "Programming/Public API.md",
     "Personal/Family.md",
     "Personal/Dich Vu Cong.md",
-    "Journal/Wifi Repeater.md",
-    "Journal/PS5 Game.md",
-    "Journal/Keyboard.md",
-    "English/Vowel Sounds.md"
+    "Journal/Wifi Repeater.md"
   ]
 }
