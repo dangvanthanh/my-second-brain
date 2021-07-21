@@ -29,7 +29,7 @@ $curl -v http://localhost:3000/auth/me
 ### POST
 
 ```
-$ curl -d http://localhost:3000/user/new
+$ curl -d "username=example&email=example@gmail.com" http://localhost:3000/user/new
 ```
 
 or alternatively, pass a file containing the request body to the data option
