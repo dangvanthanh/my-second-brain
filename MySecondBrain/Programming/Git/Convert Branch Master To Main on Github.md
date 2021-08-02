@@ -29,3 +29,12 @@ $ git symbolic-ref refs/remotes/origin/HEAD refs/remotes/origin/main
 ```sh
 $ git push origin --delete master
 ```
+
+## Summary
+
+```
+$ git branch -m master main
+$ git fetch origin
+$ git branch -u origin/main main
+$ git remote set-head origin -a
+```
