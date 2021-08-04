@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/Git/Convert Branch Master To Main on Github.md",
+            "file": "Programming/Visual Code.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/Git/Convert Branch Master To Main on Github.md",
+            "file": "Programming/Visual Code.md",
             "mode": "source"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Git/Convert Branch Master To Main on Github.md",
+                "file": "Programming/Visual Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "753e58167b3169b2",
   "lastOpenFiles": [
-    "Programming/Git/Convert Branch Master To Main on Github.md",
-    "Programming/Remote Desktop.md",
-    "Untitled.md",
-    "Programming/Public API.md",
+    "Programming/Web/Visual Code.md",
     "Programming/Books.md",
+    "Untitled.md",
+    "Programming/Remote Desktop.md",
+    "Programming/Public API.md",
+    "Programming/Git/Convert Branch Master To Main on Github.md",
     "Programming/CLI/CURL.md",
     "Programming/Icons/Icons.md",
     "Programming/Untitled.md",
-    "Programming/CLI/Untitled.md",
-    "Programming/CLI/Untitled 1.md"
+    "Programming/CLI/Untitled.md"
   ]
 }
