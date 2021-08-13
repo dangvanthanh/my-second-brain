@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal/PS5 Game.md",
+            "file": "Design/Design Assets.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "curl",
+                "query": "sv",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/PS5 Game.md",
+                "file": "Design/Design Assets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "abf82f637adf97aa",
   "lastOpenFiles": [
-    "Journal/PS5 Game.md",
+    "Design/Untitled.md",
+    "Programming/SVG/SVG Path Visualizer.md",
+    "Programming/SVG/Illustration.md",
+    "Programming/Fonts/Fonts.md",
     "Programming/Visual Code.md",
-    "Programming/Web/Visual Code.md",
-    "Programming/Books.md",
-    "Untitled.md",
     "Programming/Remote Desktop.md",
     "Programming/Public API.md",
-    "Programming/Git/Convert Branch Master To Main on Github.md",
-    "Programming/CLI/CURL.md",
-    "Programming/Icons/Icons.md"
+    "Programming/Books.md",
+    "Journal/PS5 Game.md",
+    "Programming/Web/Visual Code.md"
   ]
 }
