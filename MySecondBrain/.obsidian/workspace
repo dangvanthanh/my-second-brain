@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Design/Design Assets.md",
+            "file": "Programming/Fonts/Fonts.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sv",
+                "query": "Fonts",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design/Design Assets.md",
+                "file": "Programming/Fonts/Fonts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +89,15 @@
   },
   "active": "abf82f637adf97aa",
   "lastOpenFiles": [
+    "Programming/Fonts/Fonts.md",
+    "Programming/Icons/Icons.md",
+    "Design/Design Assets.md",
     "Design/Untitled.md",
     "Programming/SVG/SVG Path Visualizer.md",
     "Programming/SVG/Illustration.md",
-    "Programming/Fonts/Fonts.md",
     "Programming/Visual Code.md",
     "Programming/Remote Desktop.md",
     "Programming/Public API.md",
-    "Programming/Books.md",
-    "Journal/PS5 Game.md",
-    "Programming/Web/Visual Code.md"
+    "Programming/Books.md"
   ]
 }
