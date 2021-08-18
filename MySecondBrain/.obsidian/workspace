@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/Fonts/Fonts.md",
+            "file": "Programming/JavaScript/Data Structure/Stack.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Fonts",
+                "query": "sql",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Fonts/Fonts.md",
+                "file": "Programming/JavaScript/Data Structure/Stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +88,15 @@
   },
   "active": "abf82f637adf97aa",
   "lastOpenFiles": [
-    "Programming/Fonts/Fonts.md",
-    "Programming/Icons/Icons.md",
-    "Design/Design Assets.md",
-    "Design/Untitled.md",
-    "Programming/SVG/SVG Path Visualizer.md",
-    "Programming/SVG/Illustration.md",
+    "Programming/JavaScript/Data Structure/Stack.md",
+    "Programming/JavaScript/Data Structure/Queue.md",
     "Programming/Visual Code.md",
     "Programming/Remote Desktop.md",
     "Programming/Public API.md",
-    "Programming/Books.md"
+    "Programming/Books.md",
+    "Programming/Icons/Icons.md",
+    "Programming/Database/Awesome Database.md",
+    "Programming/Database/MongoDB.md",
+    "Programming/Fonts/Fonts.md"
   ]
 }
