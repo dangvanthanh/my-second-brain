@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/JavaScript/Data Structure/Stack.md",
+            "file": "Programming/JavaScript/Web Storage API.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/JavaScript/Data Structure/Stack.md",
+                "file": "Programming/JavaScript/Web Storage API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "abf82f637adf97aa",
   "lastOpenFiles": [
-    "Programming/JavaScript/Data Structure/Stack.md",
-    "Programming/JavaScript/Data Structure/Queue.md",
-    "Programming/Visual Code.md",
-    "Programming/Remote Desktop.md",
-    "Programming/Public API.md",
-    "Programming/Books.md",
+    "Programming/JavaScript/Web Storage API.md",
+    "Programming/JavaScript/Split An Array Into Even Chunks.md",
+    "Programming/JavaScript/Navigator Clipboard API.md",
     "Programming/Icons/Icons.md",
-    "Programming/Database/Awesome Database.md",
+    "Programming/Git/Convert Branch Master To Main on Github.md",
+    "Programming/Fonts/Fonts.md",
     "Programming/Database/MongoDB.md",
-    "Programming/Fonts/Fonts.md"
+    "Programming/Database/Awesome Database.md",
+    "Programming/CSS/Reset CSS.md",
+    "Programming/CSS/Breakpoints.md"
   ]
 }
