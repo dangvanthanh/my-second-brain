@@ -16,3 +16,9 @@ Tags: #keyboard
 - [Keycap](https://www.keycaps.info/)
 - [Silencing Stabilisers](https://rama.works/guides#/silencing-stabilisers/)
 - [Switches](https://www.theremingoat.com/)
+
+## Keebs
+
+- [Keebs](https://kyrremann.no/keebs/)
+- [Keeb Story](https://anothersupersite.com/my-mechanical-machinations-a-keeb-story/)
+- [MB43a](http://jkaptur.com/bm43a/)

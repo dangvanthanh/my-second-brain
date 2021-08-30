@@ -10,3 +10,4 @@ Tags: #icons
 - [Weather Icons](https://erikflowers.github.io/weather-icons/)
 - [Health Icons](https://healthicons.org/)
 - [Flag Icons](https://flagpack.xyz/)
+- [Weather Icons Animation](https://bas.dev/projects/weather-icons)

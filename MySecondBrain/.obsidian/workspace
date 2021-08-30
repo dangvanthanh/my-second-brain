@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/JavaScript/Web Storage API.md",
+            "file": "Programming/Nginx/Mac OSX Brew NGINX, PHP, MariaDB for CraftCMS.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sql",
+                "query": "Github",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/JavaScript/Web Storage API.md",
+                "file": "Programming/Nginx/Mac OSX Brew NGINX, PHP, MariaDB for CraftCMS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "abf82f637adf97aa",
   "lastOpenFiles": [
+    "Programming/Nginx/Untitled.md",
+    "Programming/Git/Convert Branch Master To Main on Github.md",
+    "Journal/Keyboard.md",
+    "Programming/Fonts/Fonts.md",
+    "Programming/Icons/Icons.md",
     "Programming/JavaScript/Web Storage API.md",
     "Programming/JavaScript/Split An Array Into Even Chunks.md",
     "Programming/JavaScript/Navigator Clipboard API.md",
-    "Programming/Icons/Icons.md",
-    "Programming/Git/Convert Branch Master To Main on Github.md",
-    "Programming/Fonts/Fonts.md",
     "Programming/Database/MongoDB.md",
-    "Programming/Database/Awesome Database.md",
-    "Programming/CSS/Reset CSS.md",
-    "Programming/CSS/Breakpoints.md"
+    "Programming/Database/Awesome Database.md"
   ]
 }
