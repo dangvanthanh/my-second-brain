@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/Nginx/Mac OSX Brew NGINX, PHP, MariaDB for CraftCMS.md",
+            "file": "Programming/Git/Convert Branch Master To Main on Github.md",
             "mode": "source"
           }
         }
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Nginx/Mac OSX Brew NGINX, PHP, MariaDB for CraftCMS.md",
+                "file": "Programming/Git/Convert Branch Master To Main on Github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +89,15 @@
   },
   "active": "abf82f637adf97aa",
   "lastOpenFiles": [
-    "Programming/Nginx/Untitled.md",
     "Programming/Git/Convert Branch Master To Main on Github.md",
+    "Programming/Nginx/Mac OSX Brew NGINX, PHP, MariaDB for CraftCMS.md",
+    "Programming/Nginx/Untitled.md",
     "Journal/Keyboard.md",
     "Programming/Fonts/Fonts.md",
     "Programming/Icons/Icons.md",
     "Programming/JavaScript/Web Storage API.md",
     "Programming/JavaScript/Split An Array Into Even Chunks.md",
     "Programming/JavaScript/Navigator Clipboard API.md",
-    "Programming/Database/MongoDB.md",
-    "Programming/Database/Awesome Database.md"
+    "Programming/Database/MongoDB.md"
   ]
 }
