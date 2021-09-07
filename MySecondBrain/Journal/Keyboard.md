@@ -22,3 +22,9 @@ Tags: #keyboard
 - [Keebs](https://kyrremann.no/keebs/)
 - [Keeb Story](https://anothersupersite.com/my-mechanical-machinations-a-keeb-story/)
 - [MB43a](http://jkaptur.com/bm43a/)
+- [Keyboard Porfolio](https://interlopercreative.com/portfolio)
+
+
+## PCB
+
+- [PCB Manufactorer](https://jlcpcb.com/)
