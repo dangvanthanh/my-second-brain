@@ -28,3 +28,8 @@ Tags: #keyboard
 ## PCB
 
 - [PCB Manufactorer](https://jlcpcb.com/)
+
+
+## Split Keyboard
+
+- [Compare Split Keyboard](https://compare.splitkb.com/)

@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Keyboard",
+                "query": "Git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,6 +89,7 @@
   "active": "abf82f637adf97aa",
   "lastOpenFiles": [
     "Journal/Keyboard.md",
+    "Music/Untitled.md",
     "Programming/Git/Convert Branch Master To Main on Github.md",
     "Programming/Nginx/Mac OSX Brew NGINX, PHP, MariaDB for CraftCMS.md",
     "Programming/Nginx/Untitled.md",
@@ -97,7 +97,6 @@
     "Programming/Icons/Icons.md",
     "Programming/JavaScript/Web Storage API.md",
     "Programming/JavaScript/Split An Array Into Even Chunks.md",
-    "Programming/JavaScript/Navigator Clipboard API.md",
-    "Programming/Database/MongoDB.md"
+    "Programming/JavaScript/Navigator Clipboard API.md"
   ]
 }
