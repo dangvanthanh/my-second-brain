@@ -33,3 +33,8 @@ Tags: #keyboard
 ## Split Keyboard
 
 - [Compare Split Keyboard](https://compare.splitkb.com/)
+
+
+## Designer
+
+- [AI03 Keyboard Designer Wiki](https://wiki.ai03.com/)
