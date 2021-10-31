@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal/Keyboard.md",
+            "file": "Inspiring/Workspace.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Git",
+                "query": "Git ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Keyboard.md",
+                "file": "Inspiring/Workspace.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "abf82f637adf97aa",
   "lastOpenFiles": [
-    "Journal/Keyboard.md",
-    "Music/Untitled.md",
+    "Inspiring/Workspace.md",
+    "English/Monoligual Dictionaries.md",
+    "Inspiring/Untitled.md",
+    "Personal/Family.md",
+    "Personal/Dich Vu Cong.md",
     "Programming/Git/Convert Branch Master To Main on Github.md",
-    "Programming/Nginx/Mac OSX Brew NGINX, PHP, MariaDB for CraftCMS.md",
-    "Programming/Nginx/Untitled.md",
-    "Programming/Fonts/Fonts.md",
-    "Programming/Icons/Icons.md",
-    "Programming/JavaScript/Web Storage API.md",
-    "Programming/JavaScript/Split An Array Into Even Chunks.md",
-    "Programming/JavaScript/Navigator Clipboard API.md"
+    "Untitled.md",
+    "Journal/Wifi Repeater.md",
+    "Journal/PS5 Game.md",
+    "Journal/Keyboard.md"
   ]
 }
