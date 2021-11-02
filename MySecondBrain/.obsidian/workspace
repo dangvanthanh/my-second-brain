@@ -9,10 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inspiring/Workspace.md",
+            "file": "Programming/Git/Git Clone From Organization Private Repository.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "39adb4f4901fae9b"
+      },
+      {
+        "id": "c02ff672ec20f154",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Programming/Git/Git Clone From Organization Private Repository.md",
+            "mode": "preview"
+          }
+        },
+        "group": "39adb4f4901fae9b"
       }
     ],
     "direction": "vertical"
@@ -68,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inspiring/Workspace.md",
+                "file": "Programming/Git/Git Clone From Organization Private Repository.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +101,15 @@
   },
   "active": "abf82f637adf97aa",
   "lastOpenFiles": [
+    "Programming/Git/Git Clone From Organization Private Repository.md",
+    "Programming/Git/Convert Branch Master To Main on Github.md",
+    "Programming/Git/Untitled.md",
     "Inspiring/Workspace.md",
     "English/Monoligual Dictionaries.md",
     "Inspiring/Untitled.md",
     "Personal/Family.md",
     "Personal/Dich Vu Cong.md",
-    "Programming/Git/Convert Branch Master To Main on Github.md",
     "Untitled.md",
-    "Journal/Wifi Repeater.md",
-    "Journal/PS5 Game.md",
-    "Journal/Keyboard.md"
+    "Journal/Wifi Repeater.md"
   ]
 }
