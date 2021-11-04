@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/Git/Git Clone From Organization Private Repository.md",
+            "file": "Personal/Simple House.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/Git/Git Clone From Organization Private Repository.md",
+            "file": "Personal/Simple House.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Git/Git Clone From Organization Private Repository.md",
+                "file": "Personal/Simple House.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "abf82f637adf97aa",
+  "active": "c02ff672ec20f154",
   "lastOpenFiles": [
+    "Personal/Simple House.md",
+    "Personal/Family.md",
+    "Personal/Untitled.md",
     "Programming/Git/Git Clone From Organization Private Repository.md",
     "Programming/Git/Convert Branch Master To Main on Github.md",
     "Programming/Git/Untitled.md",
     "Inspiring/Workspace.md",
     "English/Monoligual Dictionaries.md",
     "Inspiring/Untitled.md",
-    "Personal/Family.md",
-    "Personal/Dich Vu Cong.md",
-    "Untitled.md",
-    "Journal/Wifi Repeater.md"
+    "Personal/Dich Vu Cong.md"
   ]
 }
